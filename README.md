@@ -4,7 +4,7 @@
 
 ##Introduction
 
-This is the 2nd Project of Udacity's iOS Developer Nanodegree.
+This is the 1st Project of Udacity's iOS Developer Nanodegree.
 
 Project Objectives:
 
